@@ -1,0 +1,6 @@
+data/*.npy
+data/wave*/*
+data/jumpingjack/*
+logs/*
+*/__pycache__/*
+__pycache__/*
